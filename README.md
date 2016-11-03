@@ -8,3 +8,11 @@ Steps are well explained.. !!
 
 
 
+the steps are well explained and easier to understand.
+creating a repository as 
+creating a branch from master.
+making changes
+commit the changes
+generating pull requests.
+
+
